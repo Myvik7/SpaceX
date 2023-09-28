@@ -1,0 +1,70 @@
+.main {
+	width: 665px;
+	height: 700px;
+	position: absolute;
+	top: 1803px;
+}
+
+.falconh2 {
+	position: absolute;
+	width: 177px;
+	height: 68px;
+	font-size: 24px;
+	left: 149px;
+}
+.character {
+	position: absolute;
+	width: 134px;
+	height: 32px;
+	left: 140px;
+	top: 75px;
+	padding: 15px;	
+}
+.changecolor {
+	color: #b2b0b2;
+}
+
+.character div {
+	margin: 11% 0;
+}
+
+.charactRocket {
+	position: absolute;
+	width: 319px;
+	height: 32px;
+	left: 400px;
+	top: 70px;
+	padding: 15px;	
+}
+
+.charactRocket div {
+	margin: 5% 0;
+}
+
+
+.performanceh2 {
+	position: absolute;
+	width: 173px;
+	height: 68px;
+	font-size: 24px;
+	top:450px;
+	left: 155px;
+}
+
+.pmain {
+	position: absolute;
+	width: 420px;
+	height: 68px;
+	font-size: 16px;
+	top:560px;
+	left: 155px;
+	padding: 0;
+}
+
+.rocketimage {
+	position: absolute;
+	top: 1250px;
+	left: 700px;
+}
+
+
